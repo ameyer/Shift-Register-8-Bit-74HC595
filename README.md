@@ -1,7 +1,7 @@
 # 74HC595 8-bit Shift-Register
 Arduino code to control the 74HC595 8-bit Shift-Register
 
-For complete hookup and tutorial see: http://adam-meyer.com/arduino/74hc595-breakout-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/74hc595
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
